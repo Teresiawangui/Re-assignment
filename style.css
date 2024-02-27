@@ -1,0 +1,23 @@
+img{
+    width:20px ;
+    text-align: center;
+}
+#form{
+    border: solid 1px;
+    text-align: center;
+    padding: 80px;
+    margin:0% 30%;
+
+}
+
+ 
+ .table,th,td{ border:solid 1px ;
+ 
+
+ }
+ #container{
+    border: solid 1px;
+    text-align: center;
+    padding: 80px;
+    margin: 0% 30%;
+ }
